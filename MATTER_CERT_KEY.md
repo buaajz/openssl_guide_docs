@@ -2,7 +2,7 @@
 
 说明对matter SDK中DAC/PAI/DAC私钥 数组方式存储的der格式转化。
 
-bytes 数组转换为二进制文件，参考脚本：[bytes_to_der.py](bytes_to_der.py)
+bytes 数组转换为二进制文件，参考脚本：[bytes_to_der_mock.py](bytes_to_der_mock.py)
 
 ## DAC/PAI
 
